@@ -22,7 +22,7 @@ python dblp.py -f datasets/annulus.csv -eps 5 -min 10
 * Size of clusters
 * Python plot with points, colored by clusters
 
-##Improvement
+## Improvement
 * Better CVI Value than Original DBScan
 * Introduced Eps' to reduce the area to pick next point
 * Core Point searches for next point to pick in region between Eps and Eps'
